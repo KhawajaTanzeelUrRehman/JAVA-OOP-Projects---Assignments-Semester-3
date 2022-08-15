@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.49">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jcalendar-1.4.jar/mysql-connector-java-5.1.49.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-8.0.25.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/src" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
